@@ -34,6 +34,6 @@
 
 ## 📫 Как со мной связаться:
 
-* **Telegram:** [@natuliksok]
-* **Email:** [nata-sokol94@mail.ru]
+* **Telegram:** @natuliksok
+* **Email:** nata-sokol94@mail.ru
 * **Телефон:** +7 (905) 393-29-68
